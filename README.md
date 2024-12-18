@@ -8,3 +8,5 @@ This dashboard visualizes Adidas' sales performance, providing insights into key
 2. Regional Performance: The West region contributed significantly, accounting for around 30% of total sales.
 3. Product Performance: Men's store generated substantial revenue, contributing approximately 210 million in sales.
 4. Overall Profit: The total operating profit for the period was around 333 million.
+# Data Granularity:
+The dashboard can be filtered by region and invoice date to provide more granular insights.
